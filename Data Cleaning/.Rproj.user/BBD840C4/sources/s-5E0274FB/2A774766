@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568241686019.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3732503546",
+    "id" : "2A774766",
+    "lastKnownWriteTime" : 1568245146,
+    "last_content_update" : 1568477269214,
+    "path" : "~/GitHub/Data Cleaning/Data Cleaning/climate_change_data_cleaning.r",
+    "project_path" : "climate_change_data_cleaning.r",
+    "properties" : {
+        "cursorPosition" : "20,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
