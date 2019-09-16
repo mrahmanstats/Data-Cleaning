@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568479275822.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "49EC71A3",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "last_content_update" : 1568479275822,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "15F10356",
+        "caption" : "district",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=district&cache_key=15F10356",
+        "displayedObservations" : 77,
+        "environment" : "",
+        "object" : "district",
+        "preview" : 0,
+        "totalObservations" : 77,
+        "variables" : 16
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
