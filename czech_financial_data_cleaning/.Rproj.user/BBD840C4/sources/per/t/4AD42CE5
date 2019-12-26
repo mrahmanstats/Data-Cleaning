@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568478180009.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2952030778",
+    "id" : "4AD42CE5",
+    "lastKnownWriteTime" : 1568774300,
+    "last_content_update" : 1568774300791,
+    "path" : "~/GitHub/Data Cleaning/Czech financial data cleaning/czhech data cleaning.r",
+    "project_path" : "czhech data cleaning.r",
+    "properties" : {
+        "cursorPosition" : "95,0",
+        "scrollLine" : "82",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
